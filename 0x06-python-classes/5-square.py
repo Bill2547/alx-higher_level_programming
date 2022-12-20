@@ -1,4 +1,4 @@
-#!/usr/bin/pyhton3
+#!/usr/bin/python3
 
 class Square:
 
@@ -21,7 +21,6 @@ class Square:
         return (self.__size * self.__size)
 
     def my_print(self):
-
         for i in range(0, self.__size):
             [print("#", end="") for j in range(self.__size)]
             print("")

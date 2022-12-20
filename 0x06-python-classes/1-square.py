@@ -2,4 +2,4 @@
 
 class square:
     def __init__(self, size):
-        seld.__size = size
+        self.__size = size
