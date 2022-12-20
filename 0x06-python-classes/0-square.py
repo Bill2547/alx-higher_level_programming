@@ -2,4 +2,4 @@
 
 class Square:
     """ this was left blank."""
-    pass
+            pass
